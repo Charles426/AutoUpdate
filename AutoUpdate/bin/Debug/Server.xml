@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ServerUpdate>
+  <ReleaseDate>2017/9/28 9:25:24</ReleaseDate>
+  <ReleaseUrl>http://192.168.81.1/MAutoUpdate-master.zip</ReleaseUrl>
+  <ReleaseVersion>1.1.0.0</ReleaseVersion>
+  <VersionDesc>描述</VersionDesc>
+</ServerUpdate>
